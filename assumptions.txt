@@ -1,0 +1,4 @@
+1- the loan is one year (12 months)
+2- the provider would reedem the interst with the end of loan year
+3- the provider has simple interest  
+4- the consumer has compound interest
